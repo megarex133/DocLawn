@@ -1,0 +1,9 @@
+User-agent: *
+Allow: *
+Disallow:
+
+User-agent: YandexBot
+Allow: *
+Disallow:
+Host: https://doclawn.com
+Sitemap: https://doclawn.com/sitemap.xml
